@@ -15,6 +15,8 @@ func SplitLogLine(text string) []string {
 	return re.Split(text, -1)
 }
 
+// Test
+
 func CountQuotedPasswords(lines []string) (out int) {
 	re := regexp.MustCompile(`(?i)password\"`)
 	for _, v := range lines {
