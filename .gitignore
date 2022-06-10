@@ -17,4 +17,10 @@
 # Go workspace file
 go.work
 
+# exercism useless files
+.exercism
+go.mod
+HELP.md
+*_test.go
+
 /submit.md
