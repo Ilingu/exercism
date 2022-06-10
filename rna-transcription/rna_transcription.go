@@ -8,3 +8,5 @@ func ToRNA(dna string) (out string) {
 	}
 	return
 }
+
+// Test
