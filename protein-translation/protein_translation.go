@@ -1,25 +1,15 @@
 package protein
 
 import (
+	"errors"
 	"fmt"
 )
 
-type CustomError struct {
-	message string
-}
-
-func NewError(msg string) *CustomError {
-	return &CustomError{message: msg}
-}
-
-func (e *CustomError) Error() string {
-	return e.message
-}
-
-var ErrStop = NewError("error stop")
-var ErrInvalidBase = NewError("error invalid base")
-
-var FromCodons = map[string]string{"AUG": "Methionine", "UUU": "Phenylalanine", "UUC": "Phenylalanine", "UUA": "Leucine", "UUG": "Leucine", "UCU": "Serine", "UCC": "Serine", "UCA": "Serine", "UCG": "Serine", "UAU": "Tyrosine", "UAC": "Tyrosine", "UGU": "Cysteine", "UGC": "Cysteine", "UGG": "Tryptophan", "UAA": "STOP", "UAG": "STOP", "UGA": "STOP"}
+var (
+	ErrStop        = errors.New("error stop")
+	ErrInvalidBase = errors.New("error invalid base")
+	FromCodons     = map[string]string{"AUG": "Methionine", "UUU": "Phenylalanine", "UUC": "Phenylalanine", "UUA": "Leucine", "UUG": "Leucine", "UCU": "Serine", "UCC": "Serine", "UCA": "Serine", "UCG": "Serine", "UAU": "Tyrosine", "UAC": "Tyrosine", "UGU": "Cysteine", "UGC": "Cysteine", "UGG": "Tryptophan", "UAA": "STOP", "UAG": "STOP", "UGA": "STOP"}
+)
 
 // func FromProtein() map[string][]string {
 // 	fromProtein := make(map[string][]string)
