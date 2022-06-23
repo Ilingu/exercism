@@ -19,7 +19,7 @@ func IsSublist(smaller, bigger []int) bool {
 
 	for i := range bigger[:len(bigger)-len(smaller)+1] {
 		for j := range smaller {
-			if i+j > len(bigger)-1 || smaller[j] != bigger[i+j] {
+			if smaller[j] != bigger[i+j] {
 				break
 			}
 			if j == len(smaller)-1 {
