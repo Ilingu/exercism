@@ -24,7 +24,6 @@ func Interest(balance float64) float64 {
 // AnnualBalanceUpdate calculates the annual balance update, taking into account the interest rate.
 func AnnualBalanceUpdate(balance float64) float64 {
 	return balance * (1 + (float64(InterestRate(balance)) / 100))
-
 }
 
 // YearsBeforeDesiredBalance calculates the minimum number of years required to reach the desired balance:
