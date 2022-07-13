@@ -29,8 +29,13 @@ factors of 60: 2, 2, 3, and 5.
 
 You can check this yourself:
 
+<<<<<<< HEAD
 - 2 \* 2 \* 3 * 5
 - = 4 * 15
+=======
+- 2 \* 2 \* 3 \* 5
+- = 4 \* 15
+>>>>>>> exercise
 - = 60
 - Success!
 
@@ -60,4 +65,8 @@ You can check this yourself:
 
 ### Based on
 
+<<<<<<< HEAD
 The Prime Factors Kata by Uncle Bob - http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata
+=======
+The Prime Factors Kata by Uncle Bob - http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata
+>>>>>>> exercise

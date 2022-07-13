@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 # Simple Cipher
 
 Welcome to Simple Cipher on Exercism's Go Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
 
 ## Instructions
+=======
+# Instructions
+>>>>>>> exercise
 
 Implement a simple shift cipher like Caesar and a more secure
 substitution cipher.
@@ -103,6 +107,7 @@ of this scheme.
 [cc]: https://en.wikipedia.org/wiki/Caesar_cipher
 [vc]: https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
 [dh]: https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
+<<<<<<< HEAD
 
 ## Implementation Notes
 
@@ -159,3 +164,5 @@ For invalid arguments `NewVigenere` returns nil.
 ### Based on
 
 Substitution Cipher at Wikipedia - http://en.wikipedia.org/wiki/Substitution_cipher
+=======
+>>>>>>> exercise
