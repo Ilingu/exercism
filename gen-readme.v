@@ -38,4 +38,4 @@ fn main() {
 	}
 }
 
-// to build run `v -prod .` in administrator cmd
+/* to build run `v -prod -os linux .` in administrator cmd */
