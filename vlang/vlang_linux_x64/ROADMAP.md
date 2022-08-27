@@ -1,0 +1,17 @@
+## [Version 0.4]
+- [ ] [Coroutines](https://github.com/vlang/v/discussions/11582)
+- [ ] [Thread safe maps](https://github.com/vlang/v/discussions/11729)
+- [ ] Parallel parser
+- [ ] Parallel checker
+- [ ] Parallel C compilation
+- [ ] `recover()` from panics
+- [ ] vfmt: add missing imports (like goimports)
+- [ ] Recursive structs via optionals: `struct Node { next ?Node }`
+- [ ] Optional function struct fields
+- [ ] Handle function pointers safely, remove `if function == 0 {`
+- [ ] Bundle OpenSSL like GC
+- [x] Anonymous structs
+- [ ] -usecache on by default
+- [ ] -skip-unused on by default
+- [ ] `any` type
+- [ ] `copy()` builtin function (e.g. for easier conversion from `[]Foo` to `[4]Foo`)
