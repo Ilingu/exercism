@@ -15,7 +15,7 @@ jobs:
       - name: Checks-out your repository
         uses: actions/checkout@v3
 
-      - name: Setup Vlang environment --> Bad it copy the entire vlang repo into your repo ???
+      - name: Setup Vlang environment
         uses: vlang/setup-v@v1.1
 
       - name: Run a one-line script
