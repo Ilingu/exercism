@@ -24,3 +24,5 @@ HELP.md
 *_test.go
 
 /submit.md
+
+!gen-readme.exe

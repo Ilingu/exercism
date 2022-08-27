@@ -15,11 +15,12 @@ jobs:
       - name: Checks-out your repository
         uses: actions/checkout@v3
 
-      - name: Setup Vlang environment
-        uses: vlang/setup-v@v1.1
+      # - name: Setup Vlang environment --> Bad it copy the entire vlang repo into your repo ???
+      #   uses: vlang/setup-v@v1.1
 
-      - name: Run a one-line script (building the script and exeuting the .exe would be useless for a mere script)
-        run: v run gen-readme.v
+      - name: Run a one-line script
+        # run: v run gen-readme.v
+        run: gen-readme.exe
 
       - name: Add and Commit
         uses: EndBug/add-and-commit@v9
