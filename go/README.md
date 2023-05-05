@@ -1,0 +1,100 @@
+# Excersim Go Track 📮
+
+### This repo is _my learning thread_ of the [Go Programming Language](https://go.dev) thanks to this [`Excercim Track`](https://exercism.org/tracks/go)
+
+---
+
+My [exercism](https://exercism.org/profiles/Ilingu) **submissions**:
+
+| No. | Title | Code |
+| --- | ----- | ---- |
+| 1 | Comments | [Comments/](./Comments/) |
+| 2 | Error-Interface | [Error-Interface/](./Error-Interface/) |
+| 3 | For-Loops | [For-Loops/](./For-Loops/) |
+| 4 | Functions | [Functions/](./Functions/) |
+| 5 | If | [If/](./If/) |
+| 6 | Maps | [Maps/](./Maps/) |
+| 7 | Methods | [Methods/](./Methods/) |
+| 8 | Numbers | [Numbers/](./Numbers/) |
+| 9 | Pointers | [Pointers/](./Pointers/) |
+| 10 | Randomness | [Randomness/](./Randomness/) |
+| 11 | Range-Iteration | [Range-Iteration/](./Range-Iteration/) |
+| 12 | Regex | [Regex/](./Regex/) |
+| 13 | Runes | [Runes/](./Runes/) |
+| 14 | Slices | [Slices/](./Slices/) |
+| 15 | Strings Formatting | [Strings Formatting/](./Strings Formatting/) |
+| 16 | Strings | [Strings/](./Strings/) |
+| 17 | Struct | [Struct/](./Struct/) |
+| 18 | Switch | [Switch/](./Switch/) |
+| 19 | Time | [Time/](./Time/) |
+| 20 | Type Convertion-Assertion | [Type Convertion-Assertion/](./Type Convertion-Assertion/) |
+| 21 | Types | [Types/](./Types/) |
+| 22 | Variadic Functions | [Variadic Functions/](./Variadic Functions/) |
+| 23 | Zero Value | [Zero Value/](./Zero Value/) |
+| 24 | acronym | [acronym/](./acronym/) |
+| 25 | all-your-base | [all-your-base/](./all-your-base/) |
+| 26 | allergies | [allergies/](./allergies/) |
+| 27 | alphametics | [alphametics/](./alphametics/) |
+| 28 | anagram | [anagram/](./anagram/) |
+| 29 | armstrong-numbers | [armstrong-numbers/](./armstrong-numbers/) |
+| 30 | atbash-cipher | [atbash-cipher/](./atbash-cipher/) |
+| 31 | beer-song | [beer-song/](./beer-song/) |
+| 32 | bob | [bob/](./bob/) |
+| 33 | boolean | [boolean/](./boolean/) |
+| 34 | clock | [clock/](./clock/) |
+| 35 | collatz-conjecture | [collatz-conjecture/](./collatz-conjecture/) |
+| 36 | complex-numbers | [complex-numbers/](./complex-numbers/) |
+| 37 | crypto-square | [crypto-square/](./crypto-square/) |
+| 38 | darts | [darts/](./darts/) |
+| 39 | difference-of-squares | [difference-of-squares/](./difference-of-squares/) |
+| 40 | diffie-hellman | [diffie-hellman/](./diffie-hellman/) |
+| 41 | error-handling | [error-handling/](./error-handling/) |
+| 42 | etl | [etl/](./etl/) |
+| 43 | flatten-array | [flatten-array/](./flatten-array/) |
+| 44 | gigasecond | [gigasecond/](./gigasecond/) |
+| 45 | grains | [grains/](./grains/) |
+| 46 | hamming | [hamming/](./hamming/) |
+| 47 | isbn-verifier | [isbn-verifier/](./isbn-verifier/) |
+| 48 | isogram | [isogram/](./isogram/) |
+| 49 | kindergarten-garden | [kindergarten-garden/](./kindergarten-garden/) |
+| 50 | largest-series-product | [largest-series-product/](./largest-series-product/) |
+| 51 | leap | [leap/](./leap/) |
+| 52 | list-ops | [list-ops/](./list-ops/) |
+| 53 | luhn | [luhn/](./luhn/) |
+| 54 | matrix | [matrix/](./matrix/) |
+| 55 | meetup | [meetup/](./meetup/) |
+| 56 | nth-prime | [nth-prime/](./nth-prime/) |
+| 57 | nucleotide-count | [nucleotide-count/](./nucleotide-count/) |
+| 58 | ocr-numbers | [ocr-numbers/](./ocr-numbers/) |
+| 59 | pangram | [pangram/](./pangram/) |
+| 60 | parallel-letter-frequency | [parallel-letter-frequency/](./parallel-letter-frequency/) |
+| 61 | phone-number | [phone-number/](./phone-number/) |
+| 62 | prime-factors | [prime-factors/](./prime-factors/) |
+| 63 | protein-translation | [protein-translation/](./protein-translation/) |
+| 64 | proverb | [proverb/](./proverb/) |
+| 65 | pythagorean-triplet | [pythagorean-triplet/](./pythagorean-triplet/) |
+| 66 | raindrops | [raindrops/](./raindrops/) |
+| 67 | reverse-string | [reverse-string/](./reverse-string/) |
+| 68 | rna-transcription | [rna-transcription/](./rna-transcription/) |
+| 69 | robot-name | [robot-name/](./robot-name/) |
+| 70 | roman-numerals | [roman-numerals/](./roman-numerals/) |
+| 71 | rotational-cipher | [rotational-cipher/](./rotational-cipher/) |
+| 72 | run-length-encoding | [run-length-encoding/](./run-length-encoding/) |
+| 73 | scale-generator | [scale-generator/](./scale-generator/) |
+| 74 | scrabble-score | [scrabble-score/](./scrabble-score/) |
+| 75 | series | [series/](./series/) |
+| 76 | sieve | [sieve/](./sieve/) |
+| 77 | simple-cipher | [simple-cipher/](./simple-cipher/) |
+| 78 | space-age | [space-age/](./space-age/) |
+| 79 | strain | [strain/](./strain/) |
+| 80 | sublist | [sublist/](./sublist/) |
+| 81 | sum-of-multiples | [sum-of-multiples/](./sum-of-multiples/) |
+| 82 | tournament | [tournament/](./tournament/) |
+| 83 | tree-building | [tree-building/](./tree-building/) |
+| 84 | triangle | [triangle/](./triangle/) |
+| 85 | twelve-days | [twelve-days/](./twelve-days/) |
+| 86 | vlang | [vlang/](./vlang/) |
+| 87 | word-count | [word-count/](./word-count/) |
+| 88 | wordy | [wordy/](./wordy/) |
+
+> Auto Generated By [this Vlang file](./gen-readme.v)
